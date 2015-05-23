@@ -1,5 +1,7 @@
 # Tweets to static html files
 
+[![Build Status](https://travis-ci.org/JuhQ/tweets-to-static.svg)](https://travis-ci.org/JuhQ/tweets-to-static)
+
 
 Turns tweets into static html files
 
