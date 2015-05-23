@@ -1,0 +1,2915 @@
+{
+    "statuses": [
+        {
+            "metadata": {
+                "iso_language_code": "fi",
+                "result_type": "recent"
+            },
+            "created_at": "Tue May 19 13:10:05 +0000 2015",
+            "id": 600649627545837600,
+            "id_str": "600649627545837569",
+            "text": "#Helsinki oi #Helsinki, aina kannattaa lähteä pari tunnin seminaarin takia. #huonokinkeikkakotiolotvoittaa",
+            "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 222722652,
+                "id_str": "222722652",
+                "name": "Milka J.",
+                "screen_name": "milkajaa",
+                "location": "Turku, Finland",
+                "description": "Master of Arts (Education) | Everything and beyond |",
+                "url": "http://t.co/7JdpCz9CRa",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/7JdpCz9CRa",
+                                "expanded_url": "http://www.milkajaa.fi",
+                                "display_url": "milkajaa.fi",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 736,
+                "friends_count": 1607,
+                "listed_count": 23,
+                "created_at": "Sat Dec 04 07:20:09 +0000 2010",
+                "favourites_count": 2492,
+                "utc_offset": 10800,
+                "time_zone": "Helsinki",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 6393,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "525454",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/585510807246610432/B5ddHERB_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/585510807246610432/B5ddHERB_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/222722652/1429462697",
+                "profile_link_color": "CC3366",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "E6F6F9",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Helsinki",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    },
+                    {
+                        "text": "Helsinki",
+                        "indices": [
+                            13,
+                            22
+                        ]
+                    },
+                    {
+                        "text": "huonokinkeikkakotiolotvoittaa",
+                        "indices": [
+                            76,
+                            106
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "fi"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Tue May 19 13:08:18 +0000 2015",
+            "id": 600649179199893500,
+            "id_str": "600649179199893505",
+            "text": "Ts_x00 [AT]TimoKiviluoma: Works of Ai Weiwei at #Helsinki art #Museum 25.99.2015–28.2.2016. http://t.co/srjitxam xD [AT]aiww #AiWeiwei",
+            "source": "<a href=\"https://twitter.com/aiww_en\" rel=\"nofollow\">Ai Weiwei Autotranslation bot</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1315404170,
+                "id_str": "1315404170",
+                "name": "Ai WeiWei (english)",
+                "screen_name": "aiww_en",
+                "location": "",
+                "description": "This is the english version of Ai Weiwei's @aiww account; for those of us who don't speak chinese. Translation is done automatically so don't expect too much :)",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 9309,
+                "friends_count": 1,
+                "listed_count": 156,
+                "created_at": "Fri Mar 29 23:17:42 +0000 2013",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 52601,
+                "lang": "de",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/3452713010/833b9ea6c960569a1e87a944f77a5e34_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/3452713010/833b9ea6c960569a1e87a944f77a5e34_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315404170/1364667043",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Helsinki",
+                        "indices": [
+                            48,
+                            57
+                        ]
+                    },
+                    {
+                        "text": "Museum",
+                        "indices": [
+                            62,
+                            69
+                        ]
+                    },
+                    {
+                        "text": "AiWeiwei",
+                        "indices": [
+                            125,
+                            134
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "fi",
+                "result_type": "recent"
+            },
+            "created_at": "Tue May 19 13:06:36 +0000 2015",
+            "id": 600648753335369700,
+            "id_str": "600648753335369728",
+            "text": "Käyttäjien kokemuksia kerätään jatkon arvioimiseksi. #varhaiskasvatus #helsinki  https://t.co/fJckxwgTNN",
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2787675446,
+                "id_str": "2787675446",
+                "name": "Hgin varhaiskasvatus",
+                "screen_name": "vakahelsinki",
+                "location": "Helsinki",
+                "description": "Ajankohtaista varhaiskasvatuksesta, päivähoidosta ja leikkipuistoista. Helsingin varhaiskasvatusvirasto järjestää päivähoitoa yli 22000 lapselle.",
+                "url": "http://t.co/r4XzyfTKzc",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/r4XzyfTKzc",
+                                "expanded_url": "http://www.hel.fi/vaka",
+                                "display_url": "hel.fi/vaka",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 454,
+                "friends_count": 30,
+                "listed_count": 3,
+                "created_at": "Wed Sep 03 10:17:14 +0000 2014",
+                "favourites_count": 13,
+                "utc_offset": 10800,
+                "time_zone": "Kyiv",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 177,
+                "lang": "fi",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/507112622269816833/oC00bs-3_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/507112622269816833/oC00bs-3_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2787675446/1409818807",
+                "profile_link_color": "B9007A",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "varhaiskasvatus",
+                        "indices": [
+                            53,
+                            69
+                        ]
+                    },
+                    {
+                        "text": "helsinki",
+                        "indices": [
+                            70,
+                            79
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/fJckxwgTNN",
+                        "expanded_url": "https://twitter.com/hsfiuutiset/status/600605384349388800",
+                        "display_url": "twitter.com/hsfiuutiset/st…",
+                        "indices": [
+                            81,
+                            104
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fi"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "fi",
+                "result_type": "recent"
+            },
+            "created_at": "Tue May 19 13:05:59 +0000 2015",
+            "id": 600648596590108700,
+            "id_str": "600648596590108672",
+            "text": "RT @pekkasauri: #Helsinki: Kaupungin rannoille hylätyt veneet myydään huutokaupalla ensi tiistaina. Katsokaas: | Helsingin kaupunki http://…",
+            "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 194081319,
+                "id_str": "194081319",
+                "name": "antti pelttari",
+                "screen_name": "AnttiPelttari",
+                "location": "",
+                "description": "Kulttuurituotannon lehtori HUMAKissa, luomuviljelijä kesämökillä, yhteisömetsäläinen Nicaraguassa, aforistikko Demokraatissa ja nyt uteliaana Twitterissä.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 337,
+                "friends_count": 556,
+                "listed_count": 1,
+                "created_at": "Thu Sep 23 11:39:14 +0000 2010",
+                "favourites_count": 1266,
+                "utc_offset": 10800,
+                "time_zone": "Helsinki",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 1290,
+                "lang": "fi",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/577391247649730560/4EqifyrR_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/577391247649730560/4EqifyrR_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/194081319/1379776738",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "iso_language_code": "fi",
+                    "result_type": "recent"
+                },
+                "created_at": "Tue May 19 12:52:25 +0000 2015",
+                "id": 600645182044909600,
+                "id_str": "600645182044909569",
+                "text": "#Helsinki: Kaupungin rannoille hylätyt veneet myydään huutokaupalla ensi tiistaina. Katsokaas: | Helsingin kaupunki http://t.co/ZMqruCPJVq",
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 262579986,
+                    "id_str": "262579986",
+                    "name": "Pekka Sauri",
+                    "screen_name": "pekkasauri",
+                    "location": "Helsinki, Finland",
+                    "description": "Helsingin apulaiskaupunginjohtaja. Biträdande stadsdirektör i Helsingfors. Deputy Mayor, City of Helsinki.",
+                    "url": "http://t.co/K7zkTL1klN",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/K7zkTL1klN",
+                                    "expanded_url": "http://www.pekkasauri.fi/",
+                                    "display_url": "pekkasauri.fi",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 29700,
+                    "friends_count": 1703,
+                    "listed_count": 157,
+                    "created_at": "Tue Mar 08 09:49:22 +0000 2011",
+                    "favourites_count": 2888,
+                    "utc_offset": 10800,
+                    "time_zone": "Helsinki",
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 13853,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/430291680890077185/KRoTiofu_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/430291680890077185/KRoTiofu_normal.jpeg",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 4,
+                "favorite_count": 1,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Helsinki",
+                            "indices": [
+                                0,
+                                9
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "http://t.co/ZMqruCPJVq",
+                            "expanded_url": "http://www.hel.fi/www/uutiset/fi/liikuntavirasto/hylatyt-veneet-huudetaan-venehuutokaupassa#.VVsxt0if904.twitter",
+                            "display_url": "hel.fi/www/uutiset/fi…",
+                            "indices": [
+                                116,
+                                138
+                            ]
+                        }
+                    ]
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "fi"
+            },
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Helsinki",
+                        "indices": [
+                            16,
+                            25
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "pekkasauri",
+                        "name": "Pekka Sauri",
+                        "id": 262579986,
+                        "id_str": "262579986",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "http://t.co/ZMqruCPJVq",
+                        "expanded_url": "http://www.hel.fi/www/uutiset/fi/liikuntavirasto/hylatyt-veneet-huudetaan-venehuutokaupassa#.VVsxt0if904.twitter",
+                        "display_url": "hel.fi/www/uutiset/fi…",
+                        "indices": [
+                            139,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fi"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "fi",
+                "result_type": "recent"
+            },
+            "created_at": "Tue May 19 13:05:29 +0000 2015",
+            "id": 600648468756037600,
+            "id_str": "600648468756037632",
+            "text": "Villa Kivestä katson maisemaa. #helsinki #finland http://t.co/kVPGXZQydf",
+            "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 15218646,
+                "id_str": "15218646",
+                "name": "Christina Forsgård",
+                "screen_name": "kittikatti",
+                "location": "Helsinki, Finland",
+                "description": "Geeky humanist, passion for tech, biz, startups & curiosity. Founder: Netprofile, ExChairman: MTL PR Consultancies, Author: Social Media Book Suhde, @netprofile",
+                "url": "http://t.co/b3M4UPK2MV",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/b3M4UPK2MV",
+                                "expanded_url": "http://www.linkedin.com/in/christinaforsgard",
+                                "display_url": "linkedin.com/in/christinafo…",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 6980,
+                "friends_count": 2399,
+                "listed_count": 269,
+                "created_at": "Tue Jun 24 11:49:14 +0000 2008",
+                "favourites_count": 7088,
+                "utc_offset": 10800,
+                "time_zone": "Helsinki",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 16624,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "9AE4E8",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453636063173435392/Dd-1qEKl.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453636063173435392/Dd-1qEKl.jpeg",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/55837109/kitti_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/55837109/kitti_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/15218646/1397542856",
+                "profile_link_color": "0000FF",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "E0FF92",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 1,
+            "favorite_count": 3,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "helsinki",
+                        "indices": [
+                            31,
+                            40
+                        ]
+                    },
+                    {
+                        "text": "finland",
+                        "indices": [
+                            41,
+                            49
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 600648468668031000,
+                        "id_str": "600648468668030976",
+                        "indices": [
+                            50,
+                            72
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CFXumZHXIAAn-lB.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CFXumZHXIAAn-lB.jpg",
+                        "url": "http://t.co/kVPGXZQydf",
+                        "display_url": "pic.twitter.com/kVPGXZQydf",
+                        "expanded_url": "http://twitter.com/kittikatti/status/600648468756037632/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 340,
+                                "h": 340,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 640,
+                                "h": 640,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 600,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fi"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "fi",
+                "result_type": "recent"
+            },
+            "created_at": "Tue May 19 13:05:01 +0000 2015",
+            "id": 600648354369052700,
+            "id_str": "600648354369052672",
+            "text": "RT @pekkasauri: #Helsinki: Kaupungin rannoille hylätyt veneet myydään huutokaupalla ensi tiistaina. Katsokaas: | Helsingin kaupunki http://…",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1327762574,
+                "id_str": "1327762574",
+                "name": "Eero Koski",
+                "screen_name": "KooroEski",
+                "location": "",
+                "description": "Yle Radio 1 Jazzklubi, culture & politics, absurd humour and rock climbing. Why not?",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 135,
+                "friends_count": 639,
+                "listed_count": 6,
+                "created_at": "Thu Apr 04 20:32:48 +0000 2013",
+                "favourites_count": 2089,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 873,
+                "lang": "fi",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000370438633/ff9a238d534f15ca1b34d84b71b256f1_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000370438633/ff9a238d534f15ca1b34d84b71b256f1_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1327762574/1422394013",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "iso_language_code": "fi",
+                    "result_type": "recent"
+                },
+                "created_at": "Tue May 19 12:52:25 +0000 2015",
+                "id": 600645182044909600,
+                "id_str": "600645182044909569",
+                "text": "#Helsinki: Kaupungin rannoille hylätyt veneet myydään huutokaupalla ensi tiistaina. Katsokaas: | Helsingin kaupunki http://t.co/ZMqruCPJVq",
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 262579986,
+                    "id_str": "262579986",
+                    "name": "Pekka Sauri",
+                    "screen_name": "pekkasauri",
+                    "location": "Helsinki, Finland",
+                    "description": "Helsingin apulaiskaupunginjohtaja. Biträdande stadsdirektör i Helsingfors. Deputy Mayor, City of Helsinki.",
+                    "url": "http://t.co/K7zkTL1klN",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/K7zkTL1klN",
+                                    "expanded_url": "http://www.pekkasauri.fi/",
+                                    "display_url": "pekkasauri.fi",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 29700,
+                    "friends_count": 1703,
+                    "listed_count": 157,
+                    "created_at": "Tue Mar 08 09:49:22 +0000 2011",
+                    "favourites_count": 2888,
+                    "utc_offset": 10800,
+                    "time_zone": "Helsinki",
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 13853,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/430291680890077185/KRoTiofu_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/430291680890077185/KRoTiofu_normal.jpeg",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 4,
+                "favorite_count": 1,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Helsinki",
+                            "indices": [
+                                0,
+                                9
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "http://t.co/ZMqruCPJVq",
+                            "expanded_url": "http://www.hel.fi/www/uutiset/fi/liikuntavirasto/hylatyt-veneet-huudetaan-venehuutokaupassa#.VVsxt0if904.twitter",
+                            "display_url": "hel.fi/www/uutiset/fi…",
+                            "indices": [
+                                116,
+                                138
+                            ]
+                        }
+                    ]
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "fi"
+            },
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Helsinki",
+                        "indices": [
+                            16,
+                            25
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "pekkasauri",
+                        "name": "Pekka Sauri",
+                        "id": 262579986,
+                        "id_str": "262579986",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "http://t.co/ZMqruCPJVq",
+                        "expanded_url": "http://www.hel.fi/www/uutiset/fi/liikuntavirasto/hylatyt-veneet-huudetaan-venehuutokaupassa#.VVsxt0if904.twitter",
+                        "display_url": "hel.fi/www/uutiset/fi…",
+                        "indices": [
+                            139,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fi"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "fi",
+                "result_type": "recent"
+            },
+            "created_at": "Tue May 19 13:04:52 +0000 2015",
+            "id": 600648317203312600,
+            "id_str": "600648317203312641",
+            "text": "Katso, ketkä suosittelevat #sisältöstrategia -treenijaksoa? Syksyllä #Helsinki #arvomarkkinointi @DifferoFi http://t.co/HW7tKrbxJr",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 103096188,
+                "id_str": "103096188",
+                "name": "Katri Tanni",
+                "screen_name": "Tannikat",
+                "location": "Finland",
+                "description": "Asiakkuuksien johdattamista verkon sisältöpoluilla. Sisältöstrategi. Johdata asiakkaasi verkkoon -teoksen toinen kirjoittaja.",
+                "url": "http://t.co/JvkqTpB8QZ",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/JvkqTpB8QZ",
+                                "expanded_url": "http://www.differo.fi",
+                                "display_url": "differo.fi",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1277,
+                "friends_count": 1278,
+                "listed_count": 56,
+                "created_at": "Fri Jan 08 21:54:11 +0000 2010",
+                "favourites_count": 1492,
+                "utc_offset": -7200,
+                "time_zone": "Greenland",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 2126,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "ABB8C2",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/838130373/bb4b2f1c01f0d57be2ed558135022a72.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/838130373/bb4b2f1c01f0d57be2ed558135022a72.jpeg",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000663399358/c34b358e765473a0ed3dc99c2bc55ef9_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000663399358/c34b358e765473a0ed3dc99c2bc55ef9_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/103096188/1358758641",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "71FF1F",
+                "profile_text_color": "ADBF93",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "sisältöstrategia",
+                        "indices": [
+                            27,
+                            44
+                        ]
+                    },
+                    {
+                        "text": "Helsinki",
+                        "indices": [
+                            69,
+                            78
+                        ]
+                    },
+                    {
+                        "text": "arvomarkkinointi",
+                        "indices": [
+                            79,
+                            96
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "DifferoFi",
+                        "name": "Differo",
+                        "id": 634460654,
+                        "id_str": "634460654",
+                        "indices": [
+                            97,
+                            107
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "http://t.co/HW7tKrbxJr",
+                        "expanded_url": "http://differo.fi/koulutukset/luo-yhteisollisesti-yrityksellenne-sisaltostrategia/",
+                        "display_url": "differo.fi/koulutukset/lu…",
+                        "indices": [
+                            108,
+                            130
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fi"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "fi",
+                "result_type": "recent"
+            },
+            "created_at": "Tue May 19 13:04:07 +0000 2015",
+            "id": 600648126454693900,
+            "id_str": "600648126454693888",
+            "text": "RT @ksvhelsinki: Jokerimessut nyt Viikissä.  #RaideJokeri'sta infot 17 ja 18.30. https://t.co/0IqjepLeMq #Helsinki http://t.co/b84mlTf8oB",
+            "source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2892210785,
+                "id_str": "2892210785",
+                "name": "Helsinki Fashion FIN",
+                "screen_name": "FinlandStyle",
+                "location": "London",
+                "description": "@NordicBalt- We auto-RT & share 2 FB tweets of followers who use #Helsinki, #Finland or #Suomi hashtags. @AlandFashion-@EstoniaFashion #Finnish",
+                "url": "http://t.co/CPklqug8LD",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/CPklqug8LD",
+                                "expanded_url": "http://nordicbalticfashion.blogspot.co.uk/search/label/Suomi",
+                                "display_url": "nordicbalticfashion.blogspot.co.uk/search/label/S…",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 314,
+                "friends_count": 652,
+                "listed_count": 128,
+                "created_at": "Tue Nov 25 17:01:00 +0000 2014",
+                "favourites_count": 7751,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 14139,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/537289946545913856/Za9_qRzP_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/537289946545913856/Za9_qRzP_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2892210785/1418217149",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "iso_language_code": "fi",
+                    "result_type": "recent"
+                },
+                "created_at": "Tue May 19 12:54:51 +0000 2015",
+                "id": 600645792488104000,
+                "id_str": "600645792488103936",
+                "text": "Jokerimessut nyt Viikissä.  #RaideJokeri'sta infot 17 ja 18.30. https://t.co/0IqjepLeMq #Helsinki http://t.co/b84mlTf8oB",
+                "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1731688016,
+                    "id_str": "1731688016",
+                    "name": "Helsinkisuunnittelee",
+                    "screen_name": "ksvhelsinki",
+                    "location": "Helsinki, Finland",
+                    "description": "Helsingin kaupunkisuunnittelun kuulumiset. Helsinki City Planning Department tweets.",
+                    "url": "http://t.co/sMbT26PR1Y",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/sMbT26PR1Y",
+                                    "expanded_url": "http://www.hel.fi/ksv",
+                                    "display_url": "hel.fi/ksv",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 4092,
+                    "friends_count": 548,
+                    "listed_count": 33,
+                    "created_at": "Thu Sep 05 11:40:54 +0000 2013",
+                    "favourites_count": 94,
+                    "utc_offset": 10800,
+                    "time_zone": "Helsinki",
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 1481,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000414629735/3b74d1a4b8241d4a0943a6e481c19f1d_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000414629735/3b74d1a4b8241d4a0943a6e481c19f1d_normal.png",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1731688016/1417076628",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 1,
+                "favorite_count": 0,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "RaideJokeri",
+                            "indices": [
+                                28,
+                                40
+                            ]
+                        },
+                        {
+                            "text": "Helsinki",
+                            "indices": [
+                                88,
+                                97
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/0IqjepLeMq",
+                            "expanded_url": "https://www.facebook.com/events/559955260809821/",
+                            "display_url": "facebook.com/events/5599552…",
+                            "indices": [
+                                64,
+                                87
+                            ]
+                        }
+                    ],
+                    "media": [
+                        {
+                            "id": 600645791087079400,
+                            "id_str": "600645791087079424",
+                            "indices": [
+                                98,
+                                120
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/CFXsKiWUMAAylpb.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/CFXsKiWUMAAylpb.jpg",
+                            "url": "http://t.co/b84mlTf8oB",
+                            "display_url": "pic.twitter.com/b84mlTf8oB",
+                            "expanded_url": "http://twitter.com/ksvhelsinki/status/600645792488103936/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "small": {
+                                    "w": 340,
+                                    "h": 237,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 787,
+                                    "h": 549,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 600,
+                                    "h": 418,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "fi"
+            },
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "RaideJokeri",
+                        "indices": [
+                            45,
+                            57
+                        ]
+                    },
+                    {
+                        "text": "Helsinki",
+                        "indices": [
+                            105,
+                            114
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ksvhelsinki",
+                        "name": "Helsinkisuunnittelee",
+                        "id": 1731688016,
+                        "id_str": "1731688016",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/0IqjepLeMq",
+                        "expanded_url": "https://www.facebook.com/events/559955260809821/",
+                        "display_url": "facebook.com/events/5599552…",
+                        "indices": [
+                            81,
+                            104
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 600645791087079400,
+                        "id_str": "600645791087079424",
+                        "indices": [
+                            115,
+                            137
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CFXsKiWUMAAylpb.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CFXsKiWUMAAylpb.jpg",
+                        "url": "http://t.co/b84mlTf8oB",
+                        "display_url": "pic.twitter.com/b84mlTf8oB",
+                        "expanded_url": "http://twitter.com/ksvhelsinki/status/600645792488103936/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 340,
+                                "h": 237,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 787,
+                                "h": 549,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 418,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 600645792488104000,
+                        "source_status_id_str": "600645792488103936",
+                        "source_user_id": 1731688016,
+                        "source_user_id_str": "1731688016"
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fi"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "fi",
+                "result_type": "recent"
+            },
+            "created_at": "Tue May 19 13:04:07 +0000 2015",
+            "id": 600648125687169000,
+            "id_str": "600648125687169024",
+            "text": "RT @pekkasauri: #Helsinki: Kaupungin rannoille hylätyt veneet myydään huutokaupalla ensi tiistaina. Katsokaas: | Helsingin kaupunki http://…",
+            "source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2892210785,
+                "id_str": "2892210785",
+                "name": "Helsinki Fashion FIN",
+                "screen_name": "FinlandStyle",
+                "location": "London",
+                "description": "@NordicBalt- We auto-RT & share 2 FB tweets of followers who use #Helsinki, #Finland or #Suomi hashtags. @AlandFashion-@EstoniaFashion #Finnish",
+                "url": "http://t.co/CPklqug8LD",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/CPklqug8LD",
+                                "expanded_url": "http://nordicbalticfashion.blogspot.co.uk/search/label/Suomi",
+                                "display_url": "nordicbalticfashion.blogspot.co.uk/search/label/S…",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 314,
+                "friends_count": 652,
+                "listed_count": 128,
+                "created_at": "Tue Nov 25 17:01:00 +0000 2014",
+                "favourites_count": 7751,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 14139,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/537289946545913856/Za9_qRzP_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/537289946545913856/Za9_qRzP_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2892210785/1418217149",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "iso_language_code": "fi",
+                    "result_type": "recent"
+                },
+                "created_at": "Tue May 19 12:52:25 +0000 2015",
+                "id": 600645182044909600,
+                "id_str": "600645182044909569",
+                "text": "#Helsinki: Kaupungin rannoille hylätyt veneet myydään huutokaupalla ensi tiistaina. Katsokaas: | Helsingin kaupunki http://t.co/ZMqruCPJVq",
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 262579986,
+                    "id_str": "262579986",
+                    "name": "Pekka Sauri",
+                    "screen_name": "pekkasauri",
+                    "location": "Helsinki, Finland",
+                    "description": "Helsingin apulaiskaupunginjohtaja. Biträdande stadsdirektör i Helsingfors. Deputy Mayor, City of Helsinki.",
+                    "url": "http://t.co/K7zkTL1klN",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/K7zkTL1klN",
+                                    "expanded_url": "http://www.pekkasauri.fi/",
+                                    "display_url": "pekkasauri.fi",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 29700,
+                    "friends_count": 1703,
+                    "listed_count": 157,
+                    "created_at": "Tue Mar 08 09:49:22 +0000 2011",
+                    "favourites_count": 2888,
+                    "utc_offset": 10800,
+                    "time_zone": "Helsinki",
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 13853,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/430291680890077185/KRoTiofu_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/430291680890077185/KRoTiofu_normal.jpeg",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 4,
+                "favorite_count": 1,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Helsinki",
+                            "indices": [
+                                0,
+                                9
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "http://t.co/ZMqruCPJVq",
+                            "expanded_url": "http://www.hel.fi/www/uutiset/fi/liikuntavirasto/hylatyt-veneet-huudetaan-venehuutokaupassa#.VVsxt0if904.twitter",
+                            "display_url": "hel.fi/www/uutiset/fi…",
+                            "indices": [
+                                116,
+                                138
+                            ]
+                        }
+                    ]
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "fi"
+            },
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Helsinki",
+                        "indices": [
+                            16,
+                            25
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "pekkasauri",
+                        "name": "Pekka Sauri",
+                        "id": 262579986,
+                        "id_str": "262579986",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "http://t.co/ZMqruCPJVq",
+                        "expanded_url": "http://www.hel.fi/www/uutiset/fi/liikuntavirasto/hylatyt-veneet-huudetaan-venehuutokaupassa#.VVsxt0if904.twitter",
+                        "display_url": "hel.fi/www/uutiset/fi…",
+                        "indices": [
+                            139,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fi"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "created_at": "Tue May 19 13:03:42 +0000 2015",
+            "id": 600648021366431700,
+            "id_str": "600648021366431744",
+            "text": "RT @wilmaaam: F\nI\nN\nL\nA\nN\nD  \n@officialR5 #r5rockstheworld #R5RocksFinland #r5familyfinland #helsinki",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2869504893,
+                "id_str": "2869504893",
+                "name": "oona",
+                "screen_name": "rowbrinamarano",
+                "location": "finland",
+                "description": "she wrote, he rocked, and together they made it",
+                "url": "http://t.co/QjXPsGZtip",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/QjXPsGZtip",
+                                "expanded_url": "http://r5.is.my.life.com",
+                                "display_url": "r5.is.my.life.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 457,
+                "friends_count": 446,
+                "listed_count": 4,
+                "created_at": "Sun Nov 09 20:25:09 +0000 2014",
+                "favourites_count": 8809,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 19764,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/593894166855348226/fnGZr5Pe_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/593894166855348226/fnGZr5Pe_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2869504893/1430429855",
+                "profile_link_color": "F5ABB5",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "iso_language_code": "fr",
+                    "result_type": "recent"
+                },
+                "created_at": "Tue May 19 12:57:02 +0000 2015",
+                "id": 600646343485423600,
+                "id_str": "600646343485423617",
+                "text": "F\nI\nN\nL\nA\nN\nD  \n@officialR5 #r5rockstheworld #R5RocksFinland #r5familyfinland #helsinki",
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 2856899453,
+                    "id_str": "2856899453",
+                    "name": "Finland needs R5",
+                    "screen_name": "wilmaaam",
+                    "location": "Vörå, Finland",
+                    "description": "14 yo. #R5family #R5 ❤️ caligirl in 3 years ❤️ Jack Sparrow! pirates of the caribbean nerd here! Riker, Rocky, Rydel, Ross and Ellington FINLAND NEEDS R5",
+                    "url": "http://t.co/GCtXog0wlw",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/GCtXog0wlw",
+                                    "expanded_url": "http://R5rocks.com",
+                                    "display_url": "R5rocks.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 81,
+                    "friends_count": 95,
+                    "listed_count": 1,
+                    "created_at": "Sun Nov 02 14:42:34 +0000 2014",
+                    "favourites_count": 2361,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 807,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/598589753643106305/TuxLTz4N_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/598589753643106305/TuxLTz4N_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2856899453/1431891781",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 3,
+                "favorite_count": 2,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "r5rockstheworld",
+                            "indices": [
+                                28,
+                                44
+                            ]
+                        },
+                        {
+                            "text": "R5RocksFinland",
+                            "indices": [
+                                45,
+                                60
+                            ]
+                        },
+                        {
+                            "text": "r5familyfinland",
+                            "indices": [
+                                61,
+                                77
+                            ]
+                        },
+                        {
+                            "text": "helsinki",
+                            "indices": [
+                                78,
+                                87
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "officialR5",
+                            "name": "R5",
+                            "id": 24780172,
+                            "id_str": "24780172",
+                            "indices": [
+                                16,
+                                27
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "lang": "fr"
+            },
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "r5rockstheworld",
+                        "indices": [
+                            42,
+                            58
+                        ]
+                    },
+                    {
+                        "text": "R5RocksFinland",
+                        "indices": [
+                            59,
+                            74
+                        ]
+                    },
+                    {
+                        "text": "r5familyfinland",
+                        "indices": [
+                            75,
+                            91
+                        ]
+                    },
+                    {
+                        "text": "helsinki",
+                        "indices": [
+                            92,
+                            101
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "wilmaaam",
+                        "name": "Finland needs R5",
+                        "id": 2856899453,
+                        "id_str": "2856899453",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    },
+                    {
+                        "screen_name": "officialR5",
+                        "name": "R5",
+                        "id": 24780172,
+                        "id_str": "24780172",
+                        "indices": [
+                            30,
+                            41
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "fr"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "und",
+                "result_type": "recent"
+            },
+            "created_at": "Tue May 19 13:01:36 +0000 2015",
+            "id": 600647491260907500,
+            "id_str": "600647491260907522",
+            "text": "#roihuvuori #helsinki #cafe #lunch Rio https://t.co/4fvgCJlGpx",
+            "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 137621147,
+                "id_str": "137621147",
+                "name": "Petri Cederlöf",
+                "screen_name": "petricederlof",
+                "location": "Pääosin Suomi",
+                "description": "Ohhoh ja huh ja välillä lepo.\nNuorisoalan aiheista profiililla @nuorisotyonam",
+                "url": "https://t.co/KFSoPSmRy3",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/KFSoPSmRy3",
+                                "expanded_url": "https://petricederlof.wordpress.com",
+                                "display_url": "petricederlof.wordpress.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 361,
+                "friends_count": 450,
+                "listed_count": 12,
+                "created_at": "Tue Apr 27 07:53:34 +0000 2010",
+                "favourites_count": 4225,
+                "utc_offset": 10800,
+                "time_zone": "Istanbul",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 9688,
+                "lang": "fi",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "352726",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/3082759418/5bd1c106ca1c02f91a7eef3e1754bbd1_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/3082759418/5bd1c106ca1c02f91a7eef3e1754bbd1_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/137621147/1422298461",
+                "profile_link_color": "D02B55",
+                "profile_sidebar_border_color": "829D5E",
+                "profile_sidebar_fill_color": "99CC33",
+                "profile_text_color": "3E4415",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "roihuvuori",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    },
+                    {
+                        "text": "helsinki",
+                        "indices": [
+                            12,
+                            21
+                        ]
+                    },
+                    {
+                        "text": "cafe",
+                        "indices": [
+                            22,
+                            27
+                        ]
+                    },
+                    {
+                        "text": "lunch",
+                        "indices": [
+                            28,
+                            34
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/4fvgCJlGpx",
+                        "expanded_url": "https://instagram.com/p/23Ut7pB62Z/",
+                        "display_url": "instagram.com/p/23Ut7pB62Z/",
+                        "indices": [
+                            39,
+                            62
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "und"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Tue May 19 13:00:43 +0000 2015",
+            "id": 600647268946051100,
+            "id_str": "600647268946051072",
+            "text": "#upgradedlifefestival ongoing AdageOy #Helsinki #HealthTech #healthcare #ehealth #ux #BigData … http://t.co/oK0b25b2Ug",
+            "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2443555526,
+                "id_str": "2443555526",
+                "name": "Kevin Wolver",
+                "screen_name": "KevinWolver",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 125,
+                "friends_count": 22,
+                "listed_count": 174,
+                "created_at": "Mon Apr 14 08:26:27 +0000 2014",
+                "favourites_count": 13,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 10712,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/595168959994798080/AoIarAEm_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/595168959994798080/AoIarAEm_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2443555526/1430734247",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "upgradedlifefestival",
+                        "indices": [
+                            0,
+                            21
+                        ]
+                    },
+                    {
+                        "text": "Helsinki",
+                        "indices": [
+                            38,
+                            47
+                        ]
+                    },
+                    {
+                        "text": "HealthTech",
+                        "indices": [
+                            48,
+                            59
+                        ]
+                    },
+                    {
+                        "text": "healthcare",
+                        "indices": [
+                            60,
+                            71
+                        ]
+                    },
+                    {
+                        "text": "ehealth",
+                        "indices": [
+                            72,
+                            80
+                        ]
+                    },
+                    {
+                        "text": "ux",
+                        "indices": [
+                            81,
+                            84
+                        ]
+                    },
+                    {
+                        "text": "BigData",
+                        "indices": [
+                            85,
+                            93
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 600645841695612900,
+                        "id_str": "600645841695612928",
+                        "indices": [
+                            96,
+                            118
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CFXsNe4VIAAoE_6.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CFXsNe4VIAAoE_6.jpg",
+                        "url": "http://t.co/oK0b25b2Ug",
+                        "display_url": "pic.twitter.com/oK0b25b2Ug",
+                        "expanded_url": "http://twitter.com/maheleni/status/600645852835782657/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 340,
+                                "h": 191,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 337,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 576,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 600645852835782700,
+                        "source_status_id_str": "600645852835782657",
+                        "source_user_id": 22626941,
+                        "source_user_id_str": "22626941"
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "created_at": "Tue May 19 13:00:10 +0000 2015",
+            "id": 600647133130301400,
+            "id_str": "600647133130301440",
+            "text": "RT @wilmaaam: F\nI\nN\nL\nA\nN\nD  \n@officialR5 #r5rockstheworld #R5RocksFinland #r5familyfinland #helsinki",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2867103591,
+                "id_str": "2867103591",
+                "name": "R5 COME FINLAND ",
+                "screen_name": "50fkubest",
+                "location": "Finland ",
+                "description": "||R5||@officialR5||Go vote Helsinki,Finland #R5RockstheWorld||",
+                "url": "http://t.co/GCtXog0wlw",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/GCtXog0wlw",
+                                "expanded_url": "http://R5rocks.com",
+                                "display_url": "R5rocks.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 60,
+                "friends_count": 163,
+                "listed_count": 0,
+                "created_at": "Sat Nov 08 10:10:39 +0000 2014",
+                "favourites_count": 2442,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1093,
+                "lang": "fi",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/596721141844209664/ZF6KSFA6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/596721141844209664/ZF6KSFA6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2867103591/1431784639",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "iso_language_code": "fr",
+                    "result_type": "recent"
+                },
+                "created_at": "Tue May 19 12:57:02 +0000 2015",
+                "id": 600646343485423600,
+                "id_str": "600646343485423617",
+                "text": "F\nI\nN\nL\nA\nN\nD  \n@officialR5 #r5rockstheworld #R5RocksFinland #r5familyfinland #helsinki",
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 2856899453,
+                    "id_str": "2856899453",
+                    "name": "Finland needs R5",
+                    "screen_name": "wilmaaam",
+                    "location": "Vörå, Finland",
+                    "description": "14 yo. #R5family #R5 ❤️ caligirl in 3 years ❤️ Jack Sparrow! pirates of the caribbean nerd here! Riker, Rocky, Rydel, Ross and Ellington FINLAND NEEDS R5",
+                    "url": "http://t.co/GCtXog0wlw",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/GCtXog0wlw",
+                                    "expanded_url": "http://R5rocks.com",
+                                    "display_url": "R5rocks.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 81,
+                    "friends_count": 95,
+                    "listed_count": 1,
+                    "created_at": "Sun Nov 02 14:42:34 +0000 2014",
+                    "favourites_count": 2361,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 807,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/598589753643106305/TuxLTz4N_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/598589753643106305/TuxLTz4N_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2856899453/1431891781",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 3,
+                "favorite_count": 2,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "r5rockstheworld",
+                            "indices": [
+                                28,
+                                44
+                            ]
+                        },
+                        {
+                            "text": "R5RocksFinland",
+                            "indices": [
+                                45,
+                                60
+                            ]
+                        },
+                        {
+                            "text": "r5familyfinland",
+                            "indices": [
+                                61,
+                                77
+                            ]
+                        },
+                        {
+                            "text": "helsinki",
+                            "indices": [
+                                78,
+                                87
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "officialR5",
+                            "name": "R5",
+                            "id": 24780172,
+                            "id_str": "24780172",
+                            "indices": [
+                                16,
+                                27
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "lang": "fr"
+            },
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "r5rockstheworld",
+                        "indices": [
+                            42,
+                            58
+                        ]
+                    },
+                    {
+                        "text": "R5RocksFinland",
+                        "indices": [
+                            59,
+                            74
+                        ]
+                    },
+                    {
+                        "text": "r5familyfinland",
+                        "indices": [
+                            75,
+                            91
+                        ]
+                    },
+                    {
+                        "text": "helsinki",
+                        "indices": [
+                            92,
+                            101
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "wilmaaam",
+                        "name": "Finland needs R5",
+                        "id": 2856899453,
+                        "id_str": "2856899453",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    },
+                    {
+                        "screen_name": "officialR5",
+                        "name": "R5",
+                        "id": 24780172,
+                        "id_str": "24780172",
+                        "indices": [
+                            30,
+                            41
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "fr"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Tue May 19 13:00:06 +0000 2015",
+            "id": 600647116948688900,
+            "id_str": "600647116948688896",
+            "text": "#upgradedlifefestival ongoing AdageOy #Helsinki #HealthTech #healthcare #ehealth #ux #BigData http://t.co/M31oql9A6o",
+            "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 493423721,
+                "id_str": "493423721",
+                "name": "correctdesign",
+                "screen_name": "correctdesign",
+                "location": "",
+                "description": "User experience design",
+                "url": "http://t.co/KeG6EWhwJt",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/KeG6EWhwJt",
+                                "expanded_url": "http://correctdesign.blogspot.com",
+                                "display_url": "correctdesign.blogspot.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2508,
+                "friends_count": 994,
+                "listed_count": 2639,
+                "created_at": "Wed Feb 15 19:49:50 +0000 2012",
+                "favourites_count": 92,
+                "utc_offset": 10800,
+                "time_zone": "Athens",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 259582,
+                "lang": "tr",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1829834074/ben_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1829834074/ben_normal.png",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "upgradedlifefestival",
+                        "indices": [
+                            0,
+                            21
+                        ]
+                    },
+                    {
+                        "text": "Helsinki",
+                        "indices": [
+                            38,
+                            47
+                        ]
+                    },
+                    {
+                        "text": "HealthTech",
+                        "indices": [
+                            48,
+                            59
+                        ]
+                    },
+                    {
+                        "text": "healthcare",
+                        "indices": [
+                            60,
+                            71
+                        ]
+                    },
+                    {
+                        "text": "ehealth",
+                        "indices": [
+                            72,
+                            80
+                        ]
+                    },
+                    {
+                        "text": "ux",
+                        "indices": [
+                            81,
+                            84
+                        ]
+                    },
+                    {
+                        "text": "BigData",
+                        "indices": [
+                            85,
+                            93
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 600645841695612900,
+                        "id_str": "600645841695612928",
+                        "indices": [
+                            94,
+                            116
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CFXsNe4VIAAoE_6.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CFXsNe4VIAAoE_6.jpg",
+                        "url": "http://t.co/M31oql9A6o",
+                        "display_url": "pic.twitter.com/M31oql9A6o",
+                        "expanded_url": "http://twitter.com/maheleni/status/600645852835782657/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 340,
+                                "h": 191,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 337,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 576,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 600645852835782700,
+                        "source_status_id_str": "600645852835782657",
+                        "source_user_id": 22626941,
+                        "source_user_id_str": "22626941"
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "created_at": "Tue May 19 12:59:45 +0000 2015",
+            "id": 600647028813668400,
+            "id_str": "600647028813668352",
+            "text": "RT @wilmaaam: F\nI\nN\nL\nA\nN\nD  \n@officialR5 #r5rockstheworld #R5RocksFinland #r5familyfinland #helsinki",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1404368834,
+                "id_str": "1404368834",
+                "name": "R5 FAM FINLAND☁",
+                "screen_name": "rikersrainbow",
+                "location": "Finland",
+                "description": "VOTE R5 TO FINLAND",
+                "url": "http://t.co/pFhNY7xP8K",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/pFhNY7xP8K",
+                                "expanded_url": "http://r5rockstheworld.com",
+                                "display_url": "r5rockstheworld.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1116,
+                "friends_count": 143,
+                "listed_count": 3,
+                "created_at": "Sun May 05 07:30:10 +0000 2013",
+                "favourites_count": 2162,
+                "utc_offset": -36000,
+                "time_zone": "Hawaii",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 10711,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/580456380550762496/Evm82vDL_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/580456380550762496/Evm82vDL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1404368834/1420923419",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "iso_language_code": "fr",
+                    "result_type": "recent"
+                },
+                "created_at": "Tue May 19 12:57:02 +0000 2015",
+                "id": 600646343485423600,
+                "id_str": "600646343485423617",
+                "text": "F\nI\nN\nL\nA\nN\nD  \n@officialR5 #r5rockstheworld #R5RocksFinland #r5familyfinland #helsinki",
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 2856899453,
+                    "id_str": "2856899453",
+                    "name": "Finland needs R5",
+                    "screen_name": "wilmaaam",
+                    "location": "Vörå, Finland",
+                    "description": "14 yo. #R5family #R5 ❤️ caligirl in 3 years ❤️ Jack Sparrow! pirates of the caribbean nerd here! Riker, Rocky, Rydel, Ross and Ellington FINLAND NEEDS R5",
+                    "url": "http://t.co/GCtXog0wlw",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/GCtXog0wlw",
+                                    "expanded_url": "http://R5rocks.com",
+                                    "display_url": "R5rocks.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 81,
+                    "friends_count": 95,
+                    "listed_count": 1,
+                    "created_at": "Sun Nov 02 14:42:34 +0000 2014",
+                    "favourites_count": 2361,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 807,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/598589753643106305/TuxLTz4N_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/598589753643106305/TuxLTz4N_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2856899453/1431891781",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 3,
+                "favorite_count": 2,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "r5rockstheworld",
+                            "indices": [
+                                28,
+                                44
+                            ]
+                        },
+                        {
+                            "text": "R5RocksFinland",
+                            "indices": [
+                                45,
+                                60
+                            ]
+                        },
+                        {
+                            "text": "r5familyfinland",
+                            "indices": [
+                                61,
+                                77
+                            ]
+                        },
+                        {
+                            "text": "helsinki",
+                            "indices": [
+                                78,
+                                87
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "officialR5",
+                            "name": "R5",
+                            "id": 24780172,
+                            "id_str": "24780172",
+                            "indices": [
+                                16,
+                                27
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "lang": "fr"
+            },
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "r5rockstheworld",
+                        "indices": [
+                            42,
+                            58
+                        ]
+                    },
+                    {
+                        "text": "R5RocksFinland",
+                        "indices": [
+                            59,
+                            74
+                        ]
+                    },
+                    {
+                        "text": "r5familyfinland",
+                        "indices": [
+                            75,
+                            91
+                        ]
+                    },
+                    {
+                        "text": "helsinki",
+                        "indices": [
+                            92,
+                            101
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "wilmaaam",
+                        "name": "Finland needs R5",
+                        "id": 2856899453,
+                        "id_str": "2856899453",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    },
+                    {
+                        "screen_name": "officialR5",
+                        "name": "R5",
+                        "id": 24780172,
+                        "id_str": "24780172",
+                        "indices": [
+                            30,
+                            41
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "fr"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.026,
+        "max_id": 600649627545837600,
+        "max_id_str": "600649627545837569",
+        "next_results": "?max_id=600647028813668351&q=%23helsinki&include_entities=1",
+        "query": "%23helsinki",
+        "refresh_url": "?since_id=600649627545837569&q=%23helsinki&include_entities=1",
+        "count": 15,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}

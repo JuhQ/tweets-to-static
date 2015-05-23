@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Tweets</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body>
+
+    <div class="container">
+      <div class="col-md-6 col-md-offset-3">
+        <h2>Example tweets for query: <%- query %></h2>
+
+        <ul class="nav nav-pills">
+        <% _.forEach(extra_params.queries, function(param) { %>
+          <li role="presentation"><a href="<%- param %>.html"><%- param %></a></li>
+        <% }); %>
+        </ul>
+
+        <% _.forEach(tweets, function(tweet) { %>
+        <div class="media">
+          <div class="media-left">
+            <a href="https://twitter.com/<%- tweet.user.screen_name %>">
+              <img class="media-object" src="<%- tweet.user.profile_image_url_https %>" alt="<%- tweet.user.screen_name %>">
+            </a>
+          </div>
+          <div class="media-body">
+            <h4 class="media-heading">
+              <a href="https://twitter.com/<%- tweet.user.screen_name %>">
+                <%- tweet.user.screen_name %>
+              </a>
+            </h4>
+            <%= tweet.text %>
+          </div>
+        </div>
+        <hr>
+        <% }); %>
+      </div>
+    </div>
+
+  </body>
+</html>
